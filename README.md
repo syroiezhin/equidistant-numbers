@@ -1,5 +1,5 @@
 # Let's find a sequence of numbers with the same Step between them knowing two numbers.
-# <p align="right"> $ Step = {{Greater - Lower}\over{Amount - 1}} $ </p> <p align="center"><b>`&`</b></p> <p align="left"> $ Amount = 1 + {{Greater - Lower} \over Step} $ </p>
+# <p align="right"> $ Step = {{Greater - Lower} \over {Amount - 1}} </p> <p align="center"><b>`&`</b></p> <p align="left"> Amount = 1 + {{Greater - Lower} \over Step} $ </p>
 
 ## <p align="center">Give thanks : <u>5168 7450 1701 5535</u> Privat Bank UA</p>
 
