@@ -2,7 +2,6 @@
 
 <p align="center">
 $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right) $$
-`&`
 $$ Amount = 1+ \left( \frac{Greater - Lower}{Step} \right) $$
 </p>
 
