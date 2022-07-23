@@ -1,8 +1,20 @@
 # <p id="UP">Want to find a sequence of numbers with the same step between two numbers you specify?</p>
 
+# <p align="right">
+  $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right)
+</p>
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en-GB">
+    <b>`&`</b>
+  </a>
+</p>
+<p align="left">
+  $$ Amount = 1+ \left( \frac{Greater - Lower}{Step} \right) $$
+</p>
+
 # $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right) $$
 
-<a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en-GB"><img style="border-radius: 60px" src="https://lh3.googleusercontent.com/UzBeT4QQni4L9fj49qyrTbCzA4-6-HXj6C-ywcSy7qgpDMztLF0kVOEHTlW16JeVYm6YBbkIIuj3dipLRePTrEcy0Uo=w128-h128-e365-rj-sc0x00ffffff" alt="MathJax Plugin for Github"> </a>
+
 
 # $$ Amount = 1+ \left( \frac{Greater - Lower}{Step} \right) $$
 
