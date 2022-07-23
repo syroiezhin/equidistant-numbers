@@ -2,7 +2,13 @@
 
 #
 <p align="right">
-  $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right
+  $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right $$
+</p>
+
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en-GB">
+    <b>`&`</b>
+  </a>
 </p>
 
 <p align="left">
