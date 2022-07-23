@@ -2,15 +2,12 @@
 
 # <p align="right"> 
 \begin{align*}
-Step = \left \frac{Greater - Lower}{Amount - 1} \right
+Step = & \left \frac {Greater - Lower}{Amount - 1} \right
 \end{align*}
 </p> 
-
-<p align="center"><b>`&`</b></p> 
-
 <p align="left">
 \begin{align*}
-Amount = 1 + \left \frac{Greater - Lower}{Step} \right
+Amount = 1 + & \left \frac {Greater - Lower}{Step} \right
 \end{align*}
 </p>
 
