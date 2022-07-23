@@ -1,6 +1,9 @@
 # <p id="UP">Want to find a sequence of numbers with the same step between two numbers you specify?</p>
 
 # $$ Step = \left( \frac{Greater - Lower}{Amount - 1} \right) $$
+
+<a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en-GB"><img style="border-radius: 60px" src="https://lh3.googleusercontent.com/UzBeT4QQni4L9fj49qyrTbCzA4-6-HXj6C-ywcSy7qgpDMztLF0kVOEHTlW16JeVYm6YBbkIIuj3dipLRePTrEcy0Uo=w128-h128-e365-rj-sc0x00ffffff" alt="MathJax Plugin for Github"> </a>
+
 # $$ Amount = 1+ \left( \frac{Greater - Lower}{Step} \right) $$
 
 ## <p align="center">Give thanks : <u>5168 7450 1701 5535</u> <a href="https://en.privatbank.ua/all-ways-to-receive-send-an-international-transfer"><img src="https://upload.wikimedia.org/wikipedia/uk/f/ff/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%8224.png" width = "25" alt="Privat Bank UA"> </a></p>
