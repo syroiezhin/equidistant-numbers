@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related?hl=en-GB">
-    <b>`&`</b>
+    <b>&</b>
   </a>
 </p>
 
