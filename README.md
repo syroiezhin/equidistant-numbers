@@ -1,6 +1,5 @@
 # <p id="UP">Want to find a sequence of numbers with the same step between two numbers you specify?</p>
 
-#
 <p align="right">
   $$ Step = \left( \frac{Greater - Lower}{Amount-1} \right) $$
 </p>
